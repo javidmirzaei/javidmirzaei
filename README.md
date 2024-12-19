@@ -9,7 +9,7 @@ I'm a passionate full-stack developer who loves turning ideas into reality with 
 
 💻 **Tech Stack**
 
-- **Languages:** PHP, JavaScript, Python, Rust
+- **Languages:** PHP, JavaScript, Python
 - **Frameworks & Tools:** Laravel, Nuxt.js, Express.js, Vue.js, Docker, Alpine Linux
 - **Web Servers:** Nginx, Apache
 - **Database Management:** MySQL, PostgreSQL, MongoDB
